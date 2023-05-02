@@ -1,0 +1,3 @@
+/home/qin/source_code/QiotApplication/CMakeFiles/rebuild_cache.dir
+/home/qin/source_code/QiotApplication/CMakeFiles/edit_cache.dir
+/home/qin/source_code/QiotApplication/CMakeFiles/qiotapp.dir

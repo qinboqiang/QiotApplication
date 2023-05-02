@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qin/source_code/QiotApplication/implementation/window_ui/backends/imgui_impl_glfw.cpp
+imgui.h
+/home/qin/source_code/QiotApplication/implementation/window_ui/backends/imgui.h
+imgui_impl_glfw.h
+/home/qin/source_code/QiotApplication/implementation/window_ui/backends/imgui_impl_glfw.h
+GLFW/glfw3.h
+-
+GLFW/glfw3native.h
+-
+
+/home/qin/source_code/QiotApplication/implementation/window_ui/backends/imgui_impl_glfw.h
+imgui.h
+/home/qin/source_code/QiotApplication/implementation/window_ui/backends/imgui.h
+
+implementation/window_ui/imconfig.h
+
+implementation/window_ui/imgui.h
+imconfig.h
+implementation/window_ui/imconfig.h
+float.h
+-
+stdarg.h
+-
+stddef.h
+-
+string.h
+-
+assert.h
+-
+imgui_user.h
+implementation/window_ui/imgui_user.h
+
