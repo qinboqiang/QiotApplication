@@ -6,19 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/home/qin/source_code/QiotApplication/implementation/window_ui/backends/imgui_impl_glfw.cpp
+/home/qin/source_code/QiotApplication/implementation/qiotApp.cpp
+app_design.hpp
+/home/qin/source_code/QiotApplication/implementation/app_design.hpp
+
+implementation/window_ui/app_design.hpp
 imgui.h
-/home/qin/source_code/QiotApplication/implementation/window_ui/backends/imgui.h
+implementation/window_ui/imgui.h
 imgui_impl_glfw.h
-/home/qin/source_code/QiotApplication/implementation/window_ui/backends/imgui_impl_glfw.h
+implementation/window_ui/imgui_impl_glfw.h
+imgui_impl_opengl3.h
+implementation/window_ui/imgui_impl_opengl3.h
+stdio.h
+-
+iostream
+-
+GLES2/gl2.h
+-
 GLFW/glfw3.h
 -
-GLFW/glfw3native.h
--
 
-/home/qin/source_code/QiotApplication/implementation/window_ui/backends/imgui_impl_glfw.h
+implementation/window_ui/backends/imgui_impl_glfw.h
 imgui.h
-/home/qin/source_code/QiotApplication/implementation/window_ui/backends/imgui.h
+implementation/window_ui/backends/imgui.h
+
+implementation/window_ui/backends/imgui_impl_opengl3.h
+imgui.h
+implementation/window_ui/backends/imgui.h
+TargetConditionals.h
+-
 
 implementation/window_ui/imconfig.h
 
